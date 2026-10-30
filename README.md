@@ -72,7 +72,3 @@ The database file (`.db` / `.sqlite`) contains real customer and ledger data, so
 
 **Mesam Raza**
 GitHub: [@mesamraza157-code](https://github.com/mesamraza157-code)
-
-## License
-
-This project is for personal and educational use. Add a license (for example MIT) if you want to allow others to use it.
