@@ -2,8 +2,8 @@
 
 A desktop application for managing a snooker club, built with **Python** and **Tkinter**. It keeps track of customers, games played, money owed (khata), century games, and daily reports, all stored locally so it works without internet.
 
-> Also available as an Android app: [Snooker_Manager_flutter](https://github.com/mesamraza157-code/Snooker_Manager_flutter)
-
+> Available as an Android app: [Snooker_Manager_flutter](https://github.com/mesamraza157-code/Snooker_Manager_flutter)
+> Also available in Releases of My Github Account
 ## Features
 
 - **Customer Khata (Ledger):** Keep a separate record for every visitor with games played, amount owed, and payments received.
